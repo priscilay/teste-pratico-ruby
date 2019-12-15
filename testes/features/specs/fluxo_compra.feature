@@ -5,7 +5,7 @@ Como cliente novo
 Quero realizar um cadastro
 Para realizar uma compra
 
-
+@testecompra
 Cenario: Realizar compra
 
 Dado que realizei o cadastro
