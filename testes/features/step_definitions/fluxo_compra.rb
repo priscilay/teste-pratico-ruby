@@ -19,7 +19,6 @@ Quando("eu adicionar um produto ao carrinho de compras") do
 end
   
 Quando("preencher dados") do
-    @finaliza = FinalizarCompraPage.new
     @resumo = ResumoPage.new
     @endereco = EnderecoPage.new
     @termos = TermosPage.new
